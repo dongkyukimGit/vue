@@ -73,7 +73,7 @@
           $vuetify.breakpoint.mobile:{{$vuetify.breakpoint.mobile}}<br />
           $vuetify.breakpoint.mobile:{{$vuetify.breakpoint.mobile}}<br />
           $vuetify.breakpoint.mobile:{{$vuetify.breakpoint.mobile}}
-33333333333
+1111112222
         </v-card>
       </v-container>
     </v-card>
