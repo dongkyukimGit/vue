@@ -50,9 +50,12 @@
   </v-app>
 </template>
 <script>
+
+
 export default {
 
   data: () => ({
+    v:null,
     drawer: false,
     items: [
              { title: 'Dashboard', icon: 'mdi-view-dashboard',to: '/' },
