@@ -73,7 +73,11 @@
           $vuetify.breakpoint.mobile:{{$vuetify.breakpoint.mobile}}<br />
           $vuetify.breakpoint.mobile:{{$vuetify.breakpoint.mobile}}<br />
           $vuetify.breakpoint.mobile:{{$vuetify.breakpoint.mobile}}
+<<<<<<< HEAD
 1111
+=======
+11111122224444222222223333111154555
+>>>>>>> b12d3526ace55f030118c959469b605668be6cf3
         </v-card>
         <v-card>1111</v-card>
       </v-container>
